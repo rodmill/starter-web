@@ -1,1 +1,3 @@
 specificfilename
+*.log
+log/
